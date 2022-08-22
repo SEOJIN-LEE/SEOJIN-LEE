@@ -4,6 +4,8 @@
 
  ### *Technology Stack*
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seojin-lee)](https://github.com/anuraghazra/github-readme-stats)
+
  #### Main Field <br> 
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
@@ -53,8 +55,6 @@
  ![SEOJIN-LEE's github stats](https://github-readme-stats.vercel.app/api?username=SEOJIN-LEE&show_icons=true)
  <br>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seojin-lee)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 <!--
