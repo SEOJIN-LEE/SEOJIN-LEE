@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Lee%20Seojin&color=0:dde5ff,20:e5ddff,50:ddeeff,80:cceecc,100:e5ffdd&height=250&fontSize=80&section=header&animation=twinkling&fontColor=ffb6c1&fontAlign=28&fontAlignY=44&stroke=FFFFFF&strokeWidth=1&desc=HYU%20CSE%2019&descAlign=60&descAlignY=52&descSize=23)
 
 <div align=center>
- `Technology Stack`
- Main Field<br> 
+
+ ### Technology Stack 
+ 
+ #### Main Field <br> 
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
  <img src="https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -11,7 +13,7 @@
  <br>
  <br>
 
- Used least once <br>
+ #### Used least once <br>
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
