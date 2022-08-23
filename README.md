@@ -93,7 +93,7 @@
 <br><br>
  
 
- ![SEOJIN-LEE's github stats](https://github-readme-stats.vercel.app/api?username=SEOJIN-LEE&show_icons=true&theme=vue)
+ ![SEOJIN-LEE's github stats](https://github-readme-stats.vercel.app/api?username=SEOJIN-LEE&show_icons=true&theme=vue&count_private=true)
  <br>
  
 </div>
