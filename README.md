@@ -2,11 +2,11 @@
 
 <div align=center>
 
- ### *Technology Stack*
+ ## *Technology Stack*
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seojin-lee)](https://github.com/anuraghazra/github-readme-stats)
 
- #### Main Field <br> 
+ ### Main Field <br> 
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
  <img src="https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -17,7 +17,7 @@
  <br>
  <br>
 
- #### Used least once <br>
+ ### Used least once <br>
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
