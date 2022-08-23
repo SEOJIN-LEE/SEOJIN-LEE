@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Lee%20Seojin&color=0:dde5ff,20:e5ddff,50:ddeeff,80:cceecc,100:e5ffdd&height=250&fontSize=80&section=header&animation=twinkling&fontColor=ffb6c1&fontAlign=28&fontAlignY=44&stroke=FFFFFF&strokeWidth=1&desc=HYU%20CSE%2019&descAlign=60&descAlignY=52&descSize=23)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Lee%20Seojin&color=0:dde5ff,20:e5ddff,50:ddeeff,80:cceecc,100:e5ffdd&height=200&fontSize=80&section=header&animation=twinkling&fontColor=ffb6c1&fontAlign=28&fontAlignY=44&stroke=FFFFFF&strokeWidth=1&desc=HYU%20CSE%2019&descAlign=60&descAlignY=52&descSize=23)
 
 <div align=center>
 
