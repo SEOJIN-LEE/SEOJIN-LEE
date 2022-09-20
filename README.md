@@ -66,7 +66,7 @@
  <br>
 <br>
  
-### *Cowork tools*
+### *Cowork & Tools*
 
 <div style="display: flex; align-items: flex-start; justify-content: center;">
     <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="56" height="56" >
