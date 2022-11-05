@@ -26,7 +26,7 @@
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
  <br>
  <br>
-
+ 
  ### *Used at least once* <br>
   <div style="display: flex; align-items: flex-start; justify-content: center;">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="56" height="56" >
